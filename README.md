@@ -24,7 +24,7 @@ int count = 1;
         System.out.println("");}
             count += 1;}}	
 ```
-##输入参数，统计《长恨歌》中某个字或词出现的次数
+## 输入参数，统计《长恨歌》中某个字或词出现的次数
 ```java
 System.out.println("输入要查找的某字");
             Scanner input=new Scanner(System.in);   //输入字
